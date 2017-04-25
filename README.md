@@ -19,6 +19,17 @@ Microsoft HoloLens Toolkit
 ### Hardware
 Microsoft HoloLens
 
+## Related links
+https://www.microsoft.com/en-us/hololens/developers 
+
+
+
+## Install instructions
+1. Load project into Unity
+2. Compile project to a folder named "APP"
+3. Load the project into Visual Studio by going to ../APP/___/___.csproj
+4. Compile project again to the 
+
 ## This is the final presentation demo video:
 
 
