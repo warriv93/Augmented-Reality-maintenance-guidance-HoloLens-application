@@ -20,19 +20,25 @@ Microsoft HoloLens Toolkit
 Microsoft HoloLens
 
 ## Related links
-https://www.microsoft.com/en-us/hololens/developers 
+General information: https://www.microsoft.com/en-us/hololens/developers 
 
+Setup: https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools 
 
+Tutorials: https://developer.microsoft.com/en-us/windows/mixed-reality/academy
+
+HoloLens configuration: https://developer.microsoft.com/en-us/windows/mixed-reality/Using_Visual_Studio.html#enabling_developer_mode 
 
 ## Install instructions
-1. Load project into Unity
-2. Compile project to a folder named "APP"
-3. Load the project into Visual Studio by going to ../APP/___/___.csproj
-4. Compile project again to the 
+1. Install prerequired software: https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools and configure the HoloLens for developer mode: https://developer.microsoft.com/en-us/windows/mixed-reality/Using_Visual_Studio.html#enabling_developer_mode
+2. Load project into Unity
+3. Compile project to a folder named "APP"
+4. Load the project into Visual Studio by double clicking on ../APP/\<applicationname>.csproj
+5. Compile project in Visual Studio
+6. Upload project to the HoloLens
 
-## This is the final presentation demo video:
+## Demo video:
 
 
-## Link to research paper:
+## Research paper:
 
 
