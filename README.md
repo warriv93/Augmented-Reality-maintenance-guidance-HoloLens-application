@@ -37,7 +37,7 @@ HoloLens configuration: https://developer.microsoft.com/en-us/windows/mixed-real
 6. Upload project to the HoloLens
 
 ## Demo video:
-
+https://youtu.be/qQ59Wfuj6wI
 
 ## Research paper:
 
