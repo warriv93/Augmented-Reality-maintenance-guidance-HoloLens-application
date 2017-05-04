@@ -39,5 +39,6 @@ HoloLens configuration: https://developer.microsoft.com/en-us/windows/mixed-real
 ## Demo video:
 https://youtu.be/qQ59Wfuj6wI
 
-
+## Research paper
+https://drive.google.com/file/d/0BxJ1ec4LM8hfWEhBNW5fdzlZd0U/view?usp=sharing
 
